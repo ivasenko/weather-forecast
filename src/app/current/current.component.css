@@ -1,0 +1,7 @@
+.container, form{
+  text-align: center;
+}
+button{
+  background: #42f1f4;
+  color: blue;
+}
